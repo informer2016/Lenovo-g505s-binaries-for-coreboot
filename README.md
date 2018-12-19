@@ -6,5 +6,7 @@ This repository contains all need binaries/firmwares (blobs) for opensource BIOS
 <br>
 
 2) USB 3.0:
+<br>
 2.1) xhci_coreboot.bin - blob from coreboot repository
+<br>
 2.2) extracted_from_stock_bios_2.05 (0.10.0_1022_7814).bin - blob extracted via https://github.com/felixheld/fch_xhci_rom_dumper from stock bios (v 2.05)
